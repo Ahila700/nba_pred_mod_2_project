@@ -15,6 +15,7 @@ All of my data for this work was taking through wed scraping of the basketball r
 ### Github Content
 
 ####Exploratory Data Analysis - 
+
 Scatter plots for all features against the wins
 
 ![alt text](https://github.com/Ahila700/nba_pred_mod_2_project/blob/master/TS%25.png)
