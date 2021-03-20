@@ -16,10 +16,14 @@ All of my data for this work was taking through wed scraping of the basketball r
 
 ####Exploratory Data Analysis - 
 Scatter plots for all features against the wins
-![alt text]()
+
+![alt text](https://github.com/Ahila700/nba_pred_mod_2_project/blob/master/TS%25.png)
+
+![alt text](https://github.com/Ahila700/nba_pred_mod_2_project/blob/master/DFG%25.png)
+
+![alt text](https://github.com/Ahila700/nba_pred_mod_2_project/blob/master/Age.png)
 
 Heat maps for correlation to find high correlation and collinearity
-![alt text]()
 
 
 ####Final Models:
