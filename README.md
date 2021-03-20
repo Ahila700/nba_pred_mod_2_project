@@ -14,7 +14,7 @@ All of my data for this work was taking through wed scraping of the basketball r
 ---
 ### Github Content
 
-####Exploratory Data Analysis - 
+#### Exploratory Data Analysis - 
 
 Scatter plots for all features against the wins
 
@@ -27,10 +27,10 @@ Scatter plots for all features against the wins
 Heat maps for correlation to find high correlation and collinearity
 
 
-####Final Models:
+#### Final Models:
 Final model was made using lasso method and the best features from the analysis through Exploratory data Analysis
   
-####CSV files -
+#### CSV files -
 Csv files used and created during the project are all part of the github
  
 
