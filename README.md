@@ -1,9 +1,11 @@
 # NBA Stats Analysis
 
 ### Project Overview
+
 My project is to analyze nba statistics from the last 10 seasons. Winning games in the nba is hard and there are 15 players, a head coach, multiple assistants, general managers etc whose job is just to win games. So what I want to try and do is help find the statistics from seasons that have happened to see what exactly led to those wins in the season. Analyzing stats such as pace, defensive ft attempts per game, assists, rebounds etc. 
 
 The idea is to see that if pace has a large affect on the data than playing faster will be important for all teams, and following suit for all the other stats. And so thats what I did. I found that in fact the defensive statistics are the ones that have the largest affect on the data. Turnovers and defensive effective field goal percentage were the stats that had the largest affect on wins. On the offensive side it was efficiency that really had an affect on wins rather than quantity, meaning stats like true shooting percentage was more important than points in general. 
+
 ---
 ### Github Content
 Gathering NBA data - 
