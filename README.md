@@ -7,23 +7,26 @@ My project is to analyze nba statistics from the last 10 seasons. Winning games 
 The idea is to see that if pace has a large affect on the data than playing faster will be important for all teams, and following suit for all the other stats. And so thats what I did. I found that in fact the defensive statistics are the ones that have the largest affect on the data. Turnovers and defensive effective field goal percentage were the stats that had the largest affect on wins. On the offensive side it was efficiency that really had an affect on wins rather than quantity, meaning stats like true shooting percentage was more important than points in general. 
 
 ---
-### Github Content
-Gathering NBA data - 
-  used basketball reference to gather data from 180 teams and 2700+ players
-  Mainly used standard box score stats such as points, rebounds and assists as well as some advanced stats
-  
-EDA Analysis - 
-  created scatter plots for all features against the wins
-  generated heat maps for correlation to find high correlation and collinearity
-  
-Final Models -
-  created final model using lasso method and the best features from the last modeling practice
-  
-CSV files -
-  all csv files used and created in the project
+### Process and Data Gathering
 
-Photos - 
-  all graphs used in the presentation
+All of my data for this work was taking through wed scraping of the basketball reference site. They have a ton of data from every year, and since I was just looking for the basic and advanced stats for all the teams that was all on there. I took data for every team from the 2014 season to the present. Mainly to keep the data manageable and easy to analyze through simple visualizations. But also because the NBA has undergone a drastic shift in styles in the last decade compared to previous years. With analytics in basketball causing a huge 3 point shift. The change in the approach to games, I felt, would have too much of an impact and cause the data to be muddled if I went back much further. 
+
+---
+### Github Content
+
+####Exploratory Data Analysis - 
+Scatter plots for all features against the wins
+![alt text]()
+
+Heat maps for correlation to find high correlation and collinearity
+![alt text]()
+
+
+####Final Models:
+Final model was made using lasso method and the best features from the analysis through Exploratory data Analysis
   
+####CSV files -
+Csv files used and created during the project are all part of the github
+ 
 
 
