@@ -32,7 +32,8 @@ Final model was made using lasso method and the best features from the analysis 
   
 #### CSV files -
 Csv files used and created during the project are all part of the github
- 
+
+---
 ## Medium Article
 
 https://antoniohila.medium.com/nba-games-analysis-cd30fc5ba4ee
