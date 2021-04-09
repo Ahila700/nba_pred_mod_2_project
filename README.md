@@ -1,4 +1,4 @@
-# NBA Stats Analysis
+# NBA Team Analysis
 
 ### Project Overview
 
