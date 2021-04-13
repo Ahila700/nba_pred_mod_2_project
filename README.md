@@ -27,11 +27,15 @@ Scatter plots for all features against the wins
 Heat maps for correlation to find high correlation and collinearity
 
 
-#### Final Models:
+#### Final Models
 Final model was made using lasso method and the best features from the analysis through Exploratory data Analysis
   
-#### CSV files -
+#### CSV files 
 Csv files used and created during the project are all part of the github
+
+## Future Steps
+
+One thing to do is to provide some more models to analyze the stats. Models such as XGBoost have a feature importance built in to give some more understanding of the mode. The biggest future step would be to convert this into a predictive model instead of a model used to just analyze statistics. 
 
 ---
 ## Medium Article
